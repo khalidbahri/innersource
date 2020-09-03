@@ -1,3 +1,5 @@
+# Studygroup 2020  
+
 ## How to craft discoverable repos
 
 For your repositories to flourish, it's important that people know they exist! Here are some tips for crafting discoverable repositories. 
